@@ -361,6 +361,7 @@
     "mocha": "^4.1.0"
   },
   "scripts": {
+    "dev": "lite-server",
     "test": "mocha"
   },
   "keywords": [],
