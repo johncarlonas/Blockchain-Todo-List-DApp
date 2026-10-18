@@ -14,7 +14,6 @@
 <p>
   <img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/TRUFFLE-5E464D?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" />
   <img src="https://img.shields.io/badge/WEB3.JS-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
